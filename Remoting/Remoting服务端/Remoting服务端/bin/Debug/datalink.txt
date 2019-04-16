@@ -1,0 +1,1 @@
+Persist Security Info=False;Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.1.85)(PORT=1521)))(CONNECT_DATA=(SID=Orcl)));user id=newdocadb;password=new123456,127.0.0.1,test2,test2
